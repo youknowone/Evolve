@@ -2952,7 +2952,7 @@
   "achieve_perks_enlightened": "해시계의 지식 생산량이 1 증가하고, 기본 최대 지식 저장량이 900 증가합니다.",
   "achieve_perks_joyless": "최대 행복도 +%0% 증가",
   "achieve_perks_steelen": "강철 생산량 +%0% 증가",
-  "achieve_perks_extinct_sludge": "암흑 에너지의 효과가 %1% 우주에서 %0% 효과를 줍니다.",
+  "achieve_perks_extinct_sludge": "%1에서 암흑 에너지 효과 +%0%.",
   "achieve_perks_wheelbarrow": "최대 은행 금고 저장량이 %0% 증가합니다.",
   "achieve_perks_whitehole": "행성 선택 중에 달의 이리듐 매장량을  보너스를 최대 44%까지, 무작위으로 결정합니다.",
   "achieve_perks_whitehole2": "매장량 최대 +%0%",
