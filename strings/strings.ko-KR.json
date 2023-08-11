@@ -1676,7 +1676,7 @@
   "tech_mega_manufacturing_effect": "생산 라인 2개를 가지고 있는 공장입니다.",
   "tech_luxury_condo": "호화 콘도",
   "tech_luxury_condo_effect": "가장 비싼 자원을 활용한 콘도입니다.",
-  "tech_bolognium_containers_effect": "볼로늄의 마법적인 성질을 이용하여 컨테이너의 저장공간을 늘릴 수 있습니다.",
+  "tech_bolognium_containers_effect": "%0의 마법적인 성질을 이용하여 컨테이너의 저장공간을 늘릴 수 있습니다.",
   "tech_nanoweave_containers": "나노위브 라이너",
   "tech_nanoweave_containers_effect": "나노위브 라이너를 이용하여 컨테이너의 저장공간을 최고로 늘릴 수 있습니다.",
   "tech_urban_planning": "도시 계획",
