@@ -7407,7 +7407,7 @@
   "wiki_trait_effect_fast_growth": "인구 증가 속도가 더 빨라집니다. 인구 증가율은 특성 등급에 따라 달라집니다.",
   "wiki_trait_effect_high_metabolism": "식량 소비량이 %0% 증가합니다.",
   "wiki_trait_effect_photosynth": "맑으면 식량 소비량이 %0% 감소하고, 흐리면 식량 소비량이 %1% 감소하며, 비가 오면 식량 소비량이 %2% 감소합니다.",
-  "wiki_trait_effect_sappy": "돌 대신 호박을 사용합니다. 호박은 시민과 군사가 생산해서 돌 광부의 필요성이 없어져 돌 광부가 없습니다.",
+  "wiki_trait_effect_sappy": "돌 대신 호박을 사용합니다. 시민과 군사가 초당 %0 호박을 생산해서 돌을 채광할 필요가 없습니다.",
   "wiki_trait_effect_asymmetrical": "무역을 할 때 물건 판매 가격이 %0% 감소합니다",
   "wiki_trait_effect_spores": "바람이 불 때 인구 증가 속도가 빨라집니다. 인구 성장 속도는 이 특성의 등급에 따라 달라집니다.",
   "wiki_trait_effect_spongy": "비가 올 때 인구가 증가하지 않습니다.",
