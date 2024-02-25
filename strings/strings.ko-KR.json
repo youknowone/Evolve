@@ -2589,7 +2589,7 @@
   "tech_soul_forge_effect": "지옥의 유물 조사",
   "tech_soul_attractor_effect": "영혼 용광로에 넣을 악마 영혼 유인",
   "tech_soul_absorption": "영혼 흡수",
-  "tech_soul_absorption_effect": "각 영혼으로부터의 파워 증가",
+  "tech_soul_absorption_effect": "각각의 영혼마다 흡수하는 힘이 늘어나서 영혼석을 만드는데 필요한 영혼의 수가 줄어듭니다.",
   "tech_soul_link": "영혼 연결",
   "tech_soul_link_effect": "영혼석에 필요한 악마 영혼 수 감소",
   "tech_gun_emplacement_effect": "영혼 용광로에 총기 배치",
