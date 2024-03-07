@@ -3037,7 +3037,7 @@
   "achieve_perks_journeyman1": "연구 대기열 +%0",
   "achieve_perks_journeyman2": "연구 대기열 +%0, 건설 대기열 +%1",
   "achieve_perks_journeyman3": "Extra main trait info revealed in Genetics Lab.",
-  "achieve_perks_adept": "목재, 석재, 식량 +%0 단위를 갖고 시작합니다. 기본 목재와 석재 용량이 +%1 증가합니다.",
+  "achieve_perks_adept": "나무, 석재, 식량 +%0 단위를 갖고 시작합니다. 기본 나무와 석재 용량이 +%1 증가합니다.",
   "achieve_perks_master": "급속 진화. %2, %3 %0개, %4, %5, %6 %1개를 갖고 시작합니다.",
   "achieve_perks_grandmaster": "모든 마스터리 효과 +%0%. Instantly pick genus at gold star rank.",
   "achieve_perks_ascended1": "커스텀 종족의 유전자 포인트 +%0",
